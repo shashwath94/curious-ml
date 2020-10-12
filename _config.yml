@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Cusrious ML Blog
+title: Curious ML Blog
 description: A blog for learning and exploring various ideas and concpets in Machine Learning.
 github_username: shashwath94
 # you can comment the below line out if your repo name is not different than your baseurl
